@@ -1,4 +1,4 @@
-MASTER HEADER
+header
 
 
 Меняем текст в тестовом файле.
